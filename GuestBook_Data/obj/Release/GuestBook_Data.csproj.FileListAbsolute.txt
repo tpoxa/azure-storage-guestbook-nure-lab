@@ -1,0 +1,8 @@
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Release\GuestBook_Data.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Release\GuestBook_Data.pdb
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Release\GuestBook_Data.csprojResolveAssemblyReference.cache
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Release\GuestBook_Data.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Release\GuestBook_Data.pdb

@@ -1,0 +1,10 @@
+/Users/mtrofimenko/Downloads/MicrosoftAzureTrainingKit-master/HOLs/HOL-IntroToCloudServices-VS2012/Source/Ex1-BuildingYourFirstWindowsAzureApp/End/GuestBook_Data/obj/Debug/GuestBook_Data.csprojAssemblyReference.cache
+/Users/mtrofimenko/Downloads/MicrosoftAzureTrainingKit-master/HOLs/HOL-IntroToCloudServices-VS2012/Source/Ex1-BuildingYourFirstWindowsAzureApp/End/GuestBook_Data/obj/Debug/GuestBook_Data.csproj.CoreCompileInputs.cache
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Debug\GuestBook_Data.csprojResolveAssemblyReference.cache
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Debug\GuestBook_Data.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Debug\GuestBook_Data.pdb
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Debug\GuestBook_Data.dll
+C:\labs\HOL-IntroToCloudServices-VS2012\Source\Ex1-BuildingYourFirstWindowsAzureApp\End\GuestBook_Data\obj\Debug\GuestBook_Data.pdb
